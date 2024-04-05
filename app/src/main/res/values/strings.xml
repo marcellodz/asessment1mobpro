@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Konversi Rupiah</string>
+    <string name="intro">Selamat Datang di Aplikasi Konversi Mata Uang :))</string>
+    <string name="konversi">Konversi</string>
+    <string name="input">Masukkan Dolar Disini!</string>
+    <string name="hitung">Mulai</string>
+    <string name="tentang_aplikasi">Luas</string>
+    <string name="copyright">\n\nAplikasi Konversi Mata Uang membantu Anda untuk menghitung nilai tukar mata uang dari satu negara ke negara lainnya. Dengan aplikasi ini, Anda dapat dengan mudah mengonversi mata uang sesuai kebutuhan Anda, baik itu untuk keperluan bisnis, perjalanan, atau keuangan pribadi.
+        \n\nCopyright \u00A9 Marcello Dic Zigo. 2024</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Hasil konversi : %1$s</string>
+    <string name="kembali">Kembali</string>
+</resources>
